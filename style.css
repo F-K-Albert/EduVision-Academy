@@ -40,7 +40,7 @@ body {
 }
 
 .topnav a:hover {
-    background-color: #4299e1;
+    background-color: #4eed98;
 }
 
 .topnav a.active {
@@ -54,7 +54,7 @@ body {
 
 /* Header/Hero */
 .hero {
-    background-color: #2c5282;
+    background-color: #79632a;
     color: white;
     text-align: center;
     padding: 80px 20px;
@@ -312,7 +312,7 @@ button:hover {
 
 /* Footer */
 footer {
-    background-color: #2c5282;
+    background-color: #79632a;
     color: white;
     text-align: center;
     padding: 30px 0;
